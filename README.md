@@ -7,7 +7,6 @@ Advantages and Disadvantages of Social Media
 # Usage
 
 You can use in any browser
-#2
 
 # Contributing
 
